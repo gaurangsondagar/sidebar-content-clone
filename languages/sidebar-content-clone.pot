@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sidebar Content Clone\n"
+"POT-Creation-Date: 2025-05-24\n"
+"PO-Revision-Date: 2025-05-24\n"
+"Last-Translator: \n"
+"Language-Team: Gaurang Sondagar <gaurangsondagar@gmail.com>\n"
+"Language: en_EN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n;_x;_ex;_nx;esc_attr_e;"
+"_n_noop:1,2;esc_attr__;esc_attr_x;esc_html__;esc_html_e;esc_html_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: wp-content/plugins/sidebar-content-clone\n"
+
+#: sidebar-content-clone/sidebar-content-clone.php:69
+msgid "Sidebar Clone Widget Area:"
+msgstr ""
+
+#: sidebar-content-clone/sidebar-content-clone.php:70
+msgid "Source Widget Area:"
+msgstr ""
+
+#: sidebar-content-clone/sidebar-content-clone.php:71
+msgid "Destination Widget Area:"
+msgstr ""
+
+#: sidebar-content-clone/sidebar-content-clone.php:72
+msgid "Select a widget area"
+msgstr ""
+
+#: sidebar-content-clone/sidebar-content-clone.php:73
+msgid "Clone Widgets"
+msgstr ""
+
+#: sidebar-content-clone/sidebar-content-clone.php:74
+msgid "Please select both source and destination"
+msgstr ""
+
+#: sidebar-content-clone/sidebar-content-clone.php:75
+msgid "Source and destination cannot be the same"
+msgstr ""
+
+#: sidebar-content-clone/sidebar-content-clone.php:76
+msgid "Cloning..."
+msgstr ""
+
+#: sidebar-content-clone/sidebar-content-clone.php:77
+msgid "Error:"
+msgstr ""
+
+#: sidebar-content-clone/sidebar-content-clone.php:87
+msgid "Insufficient permissions."
+msgstr ""
+
+#: sidebar-content-clone/sidebar-content-clone.php:95
+msgid "Source or destination not specified."
+msgstr ""
+
+#: sidebar-content-clone/sidebar-content-clone.php:99
+msgid "Source and destination cannot be the same."
+msgstr ""
+
+#: sidebar-content-clone/sidebar-content-clone.php:105
+msgid "Source widget area not found."
+msgstr ""
+
+#: sidebar-content-clone/sidebar-content-clone.php:125
+msgid "Sidebar cloned successfully."
+msgstr ""
